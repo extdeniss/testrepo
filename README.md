@@ -1,3 +1,3 @@
 # Sup
 
-Foxes are fluffers
+Foxes are fluffers.
