@@ -2,10 +2,10 @@
 
 Foxes are fluffers?
 
-# Foxes
-
-We got even more foxes!!!
-
 # Master 
 
-This is master.
+this is master
+
+
+
+Testing conflicts
